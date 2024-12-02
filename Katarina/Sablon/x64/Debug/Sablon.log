@@ -1,0 +1,43 @@
+﻿  Grid.cpp
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(19,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(27,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(66,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(66,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(80,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(80,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(112,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\grid\Grid.cpp(112,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Tile.cpp
+  Button.cpp
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\button\Button.cpp(187,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\src\button\Button.cpp(191,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(106,40): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(106,35): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(108,36): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(108,31): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(110,33): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(112,39): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(112,34): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(114,39): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(114,34): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(116,37): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(116,32): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(118,37): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(118,32): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(120,33): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(122,37): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(122,32): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(124,39): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(124,34): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(126,35): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(126,30): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(128,36): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(128,31): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(131,34): warning C4305: 'argument': truncation from 'double' to 'float'
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(179,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(191,34): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(65,12): warning C4101: 'xpos': unreferenced local variable
+\\mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\main.cpp(65,18): warning C4101: 'ypos': unreferenced local variable
+  Generating Code...
+  Sablon.vcxproj -> \\Mac\Home\Documents\GitHub\ComputerGraphics\Katarina\Katarina\x64\Debug\Sablon.exe
